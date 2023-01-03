@@ -2,4 +2,4 @@
 
 ### January 2023
 
-Includes ESLint-airbnb Prettier fully configured and ready to go.
+Includes ESLint-airbnb and Prettier fully configured and ready to go.
